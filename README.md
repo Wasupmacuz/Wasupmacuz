@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Wasupmacuz
 - 👀 I’m interested in machine learning, game development, application development, programmatic approximations of constants, and algorithm optimization.
-- 🌱 I’m currently learning about graphing complex-number functions
+- 🌱 I’m currently learning assembly.
 - 💞️ I’m looking to collaborate in game jams.
 - 📫 Send me a message at wasupmacuz@gmail.com
 
